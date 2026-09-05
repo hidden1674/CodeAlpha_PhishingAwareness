@@ -1,0 +1,83 @@
+PHISHING EXAMPLES QUIZ
+
+Q1. You get an email from "alerts@sbi-secure-verify.com" saying your account is 
+locked and you must verify within 12 hours. What should you do?
+a) Click the link and verify quickly before it locks
+b) Ignore the link and check your account by logging in directly via the bank's 
+   official app or website
+c) Reply to the email asking if it's real
+d) Forward it to friends to warn them
+
+Answer: b
+Why: Banks never ask you to "verify" via an email link. Always go directly to the 
+official app or a bookmarked URL — never click through.
+
+----------------------------------------
+
+Q2. A text says: "Your India Post parcel is on hold — pay ₹35 customs fee at 
+indiapost-track.xyz to release it." Why is the small amount a red flag itself?
+a) Small amounts are always fake
+b) Small amounts feel low-risk, so people pay without thinking carefully — 
+   that's the trick
+c) Courier companies never charge customs fees
+d) It has nothing to do with the scam
+
+Answer: b
+Why: Scammers deliberately keep amounts small so the request feels harmless and 
+people skip verifying — this is a scarcity/low-friction tactic.
+
+----------------------------------------
+
+Q3. Your "boss" messages from an unfamiliar email asking you to urgently buy gift 
+cards for a client and send the codes. What's the safest response?
+a) Buy the cards quickly since it's urgent and from the boss
+b) Call or message your boss directly through a known number to confirm before 
+   doing anything
+c) Reply to the email asking for more details
+d) Ask a coworker to buy the cards instead
+
+Answer: b
+Why: This is classic Business Email Compromise (BEC). Gift-card requests and 
+"can't talk right now" urgency are massive red flags — always verify through a 
+separate, known channel.
+
+----------------------------------------
+
+Q4. A WhatsApp message offers a work-from-home job paying ₹3000/day, but asks for 
+a ₹499 "refundable deposit" to register. What's the giveaway?
+a) The pay is too low
+b) Legitimate employers never ask candidates to pay money to get hired
+c) WhatsApp is not used for job offers
+d) The deposit is refundable so it's safe
+
+Answer: b
+Why: A real job never requires you to pay to get hired — "refundable deposit" is 
+just a wrapper to make the scam feel safer.
+
+----------------------------------------
+
+Q5. Someone calls claiming to be from your company's IT department and asks you 
+to read out a code that just arrived by SMS so they can "fix your laptop 
+remotely." What is that code most likely?
+a) A software license key
+b) A one-time password (OTP) that would let them log into your account
+c) A tracking number
+d) A discount coupon
+
+Answer: b
+Why: This is vishing (voice phishing). Real IT staff never need your OTP — 
+sharing it hands the attacker direct access to your account.
+
+----------------------------------------
+
+Q6. A message says "Scan this QR code to receive a ₹2000 refund from Paytm." 
+What's wrong with this?
+a) QR codes are only for making payments, never for receiving them
+b) Paytm doesn't exist
+c) QR codes can't hold that much information
+d) Refunds are always fake
+
+Answer: a
+Why: Scanning a QR code and entering your UPI PIN authorizes an outgoing 
+payment — it can never be used to "receive" money. Any message claiming 
+otherwise is a scam.
