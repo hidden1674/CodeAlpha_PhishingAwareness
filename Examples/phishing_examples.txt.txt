@@ -1,0 +1,67 @@
+PHISHING EXAMPLES
+
+CodeAlpha Cyber Security Internship – Task 2
+
+==================================================
+
+1. Fake Bank/Payment Alert (Email)
+
+From: alerts@sbi-secure-verify.com
+
+Subject: Your SBI account has been temporarily locked
+
+"Dear Customer, unusual login detected from a new device. Verify your identity within 12 hours to avoid permanent suspension. [Verify Now]"
+
+RED FLAGS:
+
+• Unexpected verification request
+• Urgent deadline
+• Suspicious sender address
+• Login link in an unexpected message
+• Threat of account suspension
+
+==================================================
+
+## EXAMPLE 2 — FAKE PRIZE NOTIFICATION
+
+Subject: Congratulations! You Have Won a Prize
+
+You have been selected to receive a special reward.
+
+Click the link below to claim your prize immediately.
+
+RED FLAGS:
+
+• Unexpected reward
+• Pressure to act quickly
+• Unknown sender
+• Request for personal or payment information
+• Emotionally persuasive language
+
+==================================================
+
+## EXAMPLE 3 — FAKE PASSWORD RESET
+
+Subject: Password Reset Required
+
+Your password is scheduled to expire today.
+
+Use the link provided to keep your account active.
+
+RED FLAGS:
+
+• Unexpected password-reset request
+• Urgent deadline
+• Suspicious link
+• Possible credential harvesting
+• No prior request from the user
+
+==================================================
+
+SAFETY NOTE
+
+These examples are completely fictional and are included
+only for cybersecurity awareness and educational purposes.
+
+Do not enter real passwords, OTPs, payment information,
+or other sensitive information into suspicious websites.
