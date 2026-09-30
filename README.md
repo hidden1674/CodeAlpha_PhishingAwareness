@@ -1,17 +1,17 @@
-**CodeAlpha - Phishing Awareness Training**
+# CodeAlpha - Phishing Awareness Training
 
-**Internship**
+## Internship
 CodeAlpha Cyber Security Internship
 
-**Task**
+## Task
 Task 2 - Phishing Awareness Training
 
-**Objective**
+## Objective
 The objective of this project is to educate users about
 phishing attacks, social engineering techniques, warning
 signs, and safe cybersecurity practices.
 
-**Topics Covered**
+## Topics Covered
 - What is phishing?
 - Types of phishing
 - Phishing warning signs
@@ -22,19 +22,19 @@ signs, and safe cybersecurity practices.
 - Incident response
 - Interactive quiz
 
-**Tools Used**
+## Tools Used
 - Microsoft PowerPoint
 - GitHub
 
-**Learning Outcomes**
+## Learning Outcomes
 - Understanding phishing attacks
 - Identifying suspicious emails and links
 - Understanding social engineering
 - Learning safe cybersecurity practices
 
-**Safety Note**
+## Safety Note
 All examples used in this project are fictional and are
 provided for educational and cybersecurity awareness purposes.
 
- **Author**
-Vansh Singh
+## Author
+Your Name
